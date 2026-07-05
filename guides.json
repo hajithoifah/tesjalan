@@ -1,0 +1,74 @@
+{
+  "guides": [
+    {
+      "id": "fg_guide_001",
+      "title": "Ultimate Beginner's Guide: Mastering the Basics",
+      "category": "Basics",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_beginners_guide.webp",
+      "content_markdown": "# Ultimate Beginner's Guide to Fall Guys\n\nWelcome to the Blunderdome! If you are new to Fall Guys, the chaos can be overwhelming. Here are the core mechanics you need to master to survive the early rounds.\n\n### 1. Movement is Key\nYour bean moves with momentum. Changing directions instantly will slow you down, so try to plan your path a few steps ahead.\n\n### 2. The Art of Diving\nPress the dive button to gain a sudden burst of forward distance. This is crucial for:\n* Reaching far platforms.\n* Crossing the finish line at the last second.\n* Recovering quickly after a fall.\n\n### 3. Knowing When to Grab\nGrabbing slowing down opponents, but it also slows *you* down. Use it defensively on survival maps or to sabotage players on thin ledges. Don't grab randomly during straight sprints!"
+    },
+    {
+      "id": "fg_guide_002",
+      "title": "How to Master Door Dash: Predicting the Right Path",
+      "category": "Race",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_door_dash.webp",
+      "content_markdown": "# How to Master Door Dash\n\nDoor Dash looks like pure luck, but smart beans can consistently qualify by applying a few simple rules.\n\n### Avoid the Frontlines\nNever be the first one to hit a row of doors. Let the crowd crash into them. Look closely at the breaking pieces: if the door is real, it will shatter. If it is fake, the crowd will bounce back.\n\n### The Final Three Doors\nIn the final row, only three doors are real. The teeth at the bottom of the real doors are slightly lower and wider than the fake ones. Look closely before you dive!"
+    },
+    {
+      "id": "fg_guide_003",
+      "title": "Slime Climb Survival Strategies",
+      "category": "Survival",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_slime_climb.webp",
+      "content_markdown": "# Slime Climb Survival Strategies\n\nSlime Climb is notorious for eliminating half the lobby. The secret is patience, not speed.\n\n### 1. Ignore the Crowd\nThe rising slime moves slower than you think. Don't rush into the crowd at the yellow logs—wait a second for others to fall off, then cross calmly.\n\n### 2. The Conveyor Belts\nWhen running on the moving belts, run diagonally against the movement to maintain a straight forward line.\n\n### 3. Griefers at the Top\nWatch out for players waiting at the final yellow logs to grab you. Jump over them or wait for them to get distracted."
+    },
+    {
+      "id": "fg_guide_004",
+      "title": "Hex-A-Gone: The Slow Jump Method",
+      "category": "Finals",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_hex_a_gone.webp",
+      "content_markdown": "# Hex-A-Gone: The Slow Jump Method\n\nHex-A-Gone is all about efficiency. The player who stays up the highest for the longest wins.\n\n### The Meta Strategy: Slow Jumping\nInstead of running across tiles, hop from one tile to another slowly. Press the jump button right as your bean touches the tile. This maximizes the time you spend on each layer.\n\n### Looking Down\nAlways pan your camera downwards to see which tiles are available on the floor below. This ensures you land safely on a solid patch rather than falling through multiple layers at once."
+    },
+    {
+      "id": "fg_guide_005",
+      "title": "See Saw: Balancing Your Way to Victory",
+      "category": "Race",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_see_saw.webp",
+      "content_markdown": "# See Saw: Balancing Your Way to Victory\n\nSee Saw tests your patience and physics awareness more than your speed.\n\n### 1. Run to the High Ground\nAlways run towards the side of the see-saw that is currently raised higher. Running onto a steep downhill slope will cause your bean to slip and fall off completely.\n\n### 2. The Diving Trick\nIf you must jump onto a heavily tilted see-saw, dive right as you land. Diving prevents your bean from stumbling and slipping off the edge."
+    },
+    {
+      "id": "fg_guide_006",
+      "title": "Team Games: How to Carry Your Squad",
+      "category": "Team",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_team_games.webp",
+      "content_markdown": "# Team Games: How to Carry Your Squad\n\nTeam games like Fall Ball or Egg Scramble require a shift in mindset from solo play.\n\n### 1. Play Defense\nEveryone wants to score, but almost no one wants to defend. Be the hero who stays back to guard the goal or the nest. A good defender wins more team games than a greedy attacker.\n\n### 2. Target the Weakest Team\nIn three-team games, you don't need to come in first; you just need to not be last. Work with the other leading team to eliminate the team with the lowest score."
+    },
+    {
+      "id": "fg_guide_007",
+      "title": "Whirlygig: Timing the Big Fan Spinner",
+      "category": "Race",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_whirlygig.webp",
+      "content_markdown": "# Whirlygig: Timing the Big Fan\n\nThe Whirlygig is a fast-paced map full of spinning obstacles. Here is how to conquer the final middle fan.\n\n### The Middle Route Risk\nThe giant spinning fan in the middle is high-risk, high-reward. If you time it wrong, you get launched backwards. \n\n**Tip:** Watch the shadow of the fan blade on the ground. Jump and dive just as the shadow passes you. Alternatively, take the left or right paths—they are slower but much safer and guarantee qualification if executed cleanly."
+    },
+    {
+      "id": "fg_guide_008",
+      "title": "Tip Toe: Reading the Shaking Tiles",
+      "category": "Logic",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_tip_toe.webp",
+      "content_markdown": "# Tip Toe: Reading the Shaking Tiles\n\nTip Toe requires high awareness. You need to find the hidden path to the finish line without falling into the abyss.\n\n### Spotting the Fakes\nFake tiles will occasionally shake or wobble. Keep a close eye on the front rows. If a tile shakes, it is 100% fake. Memorize these to narrow down the correct path.\n\n### The Final Push\nThe last two rows are always connected in a straight line. Once the second-to-last tile is discovered, dive straight ahead to the finish line before the crowd pushes you off."
+    },
+    {
+      "id": "fg_guide_009",
+      "title": "Fall Mountain: The Perfect Path to the Crown",
+      "category": "Finals",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_fall_mountain.webp",
+      "content_markdown": "# Fall Mountain Strategy\n\nFall Mountain is a pure sprint to the finish where a single mistake costs you the crown.\n\n### 1. Watch the Balls\nLook up at the spawn points of the falling boulders. Their trajectory is predictable. Always move toward the side where the balls have already passed through.\n\n### 2. Don't Jump Too Early\nWhen you reach the crown, ensure it is moving *downward* within your reach. Do not just jump—you must press the **Grab button** to actually secure the victory. Pressing jump without grabbing will cause you to bounce off the crown!"
+    },
+    {
+      "id": "fg_guide_010",
+      "title": "Top 5 Settings to Change for Better Performance",
+      "category": "Settings",
+      "thumbnail_url": "https://raw.githubusercontent.com/username/repo/main/wallpapers/thumb_settings.webp",
+      "content_markdown": "# Top 5 Performance Settings\n\nOptimizing your game settings can give you a competitive edge in tight situations.\n\n1. **Maximize Camera Sensitivity:** Allows you to scan the map and look down quickly in Hex-A-Gone.\n2. **Turn Off Motion Blur:** Gives you a clearer view of fast-moving obstacles.\n3. **Set Nameplates to Minimal:** Reduces screen clutter during crowded race rounds.\n4. **Optimize Audio Cues:** Keep sound effects loud so you can hear approaching players or spinning obstacles behind you.\n5. **Check Controller Deadzones:** Ensure instant jump responses by lowering input deadzones."
+    }
+  ]
+}
