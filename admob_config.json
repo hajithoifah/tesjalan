@@ -1,0 +1,27 @@
+{
+  "admob_configuration": {
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "is_testing_mode": true,
+    "ads_units": {
+      "testing": {
+        "app_open": "ca-app-pub-3940256099942544/9257395921",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded": "ca-app-pub-3940256099942544/5224354917",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "native": "ca-app-pub-3940256099942544/2247696110"
+      },
+      "production": {
+        "app_open": "ca-app-pub-xxxxxx/xxxxxx",
+        "interstitial": "ca-app-pub-xxxxxx/xxxxxx",
+        "rewarded": "ca-app-pub-xxxxxx/xxxxxx",
+        "banner": "ca-app-pub-xxxxxx/xxxxxx",
+        "native": "ca-app-pub-xxxxxx/xxxxxx"
+      }
+    },
+    "settings": {
+      "coppa_compliant": false,
+      "max_ad_content_rating": "G",
+      "interstitial_interval_seconds": 60
+    }
+  }
+}
